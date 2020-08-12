@@ -1,0 +1,39 @@
+{
+   "schema":{
+      "Locale":"en_us",
+      "ResourceMap":null,
+      "DataCenter":"AWS",
+      "ServiceMap":{
+		"1":{
+            "minProficiency":null,
+            "resourceCount":null,
+            "rank":null,
+            "attributes":{
+               "Tenant": ["CONSUMER"],
+               "Language":[ "English"],
+               "Channel":["Chat"],
+               "ServiceType":["portalb2c"],
+			   "OriginType":["WEB"]
+			},
+            "priority":5,
+            "maxProficiency":null   
+		}		
+	},
+      "TransferServiceMap":null,
+      "CollectedDigits":null,
+      "Strategy":"Most Idle",
+      "CustomerId":"1595308567950"
+	},
+	"groupId":"1595308567950",
+	"contextId":"",
+	"persistToEDM":"true",
+	"topic":"TechnicalSupport",
+	"data":{
+		"CustomerName":"Mahmoud Rabie",
+		"AccountNumber":"1595308567950",
+		"EmailAddress":"kalaiselvan.a@teleapps.com",
+		"EmailTranscript":"Y",
+		"ChatTranscript":"Y",
+		"Authenticated":"Y" 
+   }
+}
