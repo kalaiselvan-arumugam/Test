@@ -1,0 +1,62 @@
+{
+    "schema": {
+        "Locale": "en_us",
+        "AccountId": null,
+        "ServiceMap": {
+            "1": {
+                "attributes": {
+                    "OriginType": [
+                        "WEB"
+                    ],
+                    "Language": [
+                        "English"
+                    ],
+                    "ServiceType": [
+                        "CONSUMER"
+                    ],
+                    "Channel": [
+                        "Chat"
+                    ],
+                    "Segment": [
+                        "SIL"
+                    ],
+                    "Location": [
+                        "Inhouse"
+                    ]
+                },
+                "priority": 5,
+                "resourceCount": null,
+                "rank": null,
+                "minProficiency": null,
+                "maxProficiency": null
+            }
+        },
+        "TransferServiceMap": {},
+        "MatchingService": "1",
+        "Rating": null,
+        "TransferResourceMap": {},
+        "TranscriptRef": "~kDg8NetRA6~T-6HvVzC8w",
+        "CustomerId": "204",
+        "ResourceMap": {},
+        "DataCenter": "Primary",
+        "Deferral": null,
+        "CollectedDigits": null,
+        "Disposition": null,
+        "Strategy": "Most Idle",
+        "AgentId": "gbhatt_OCP ChatRoutableAddress"
+    },
+    "data": {
+        "Authenticated": "Y",
+        "EmailTranscript": "Y",
+        "CustomerName": "Akash",
+        "EmailAddress": "kalaiselvan.a@teleapps.com",
+        "AccountNumber": "0509107187",
+        "chatbotStatus": "NO",
+        "chatbotSegmentCheckStatus": "SUCCESS",
+        "customerClass": "SILVER",
+        "accountCategory": "Residential",
+        "isRepeatedCaller": "YES",
+        "isSupervisorNotified": "Failure"
+    },
+    "topic": ""
+}
