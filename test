@@ -1,0 +1,55 @@
+[
+    {
+        "vertical": "Hospital",
+        "category": "Appointment",
+        "categorymessage": "Appointment Message",
+        "messagetemplate": "Dear [Customer_Name], This is to confirm to you that ABC Airlines Flight No. AB101 from Germany to London departing at 17:00 on 15 December,2020 has been booked."
+    },
+    {
+        "vertical": "Hospital",
+        "category": "Consultation",
+        "categorymessage": "Consultation Message",
+        "messagetemplate": "Dear [Customer_Name], This is to confirm to you that ABC Airlines Flight No. AB101 from Germany to London departing at 17:00 on 15 December,2020 has been booked."
+    },
+    {
+        "vertical": "Hospital",
+        "category": "Admit",
+        "categorymessage": "Admit Message",
+        "messagetemplate": "Dear [Customer_Name], This is to confirm to you that ABC Airlines Flight No. AB101 from Germany to London departing at 17:00 on 15 December,2020 has been booked."
+    },
+    {
+        "vertical": "Airlines",
+        "category": "Confirmation",
+        "categorymessage": "Confirmation Message",
+        "messagetemplate": "Dear [Customer_Name], This is to confirm to you that ABC Airlines Flight No. AB101 from Germany to London departing at 17:00 on 15 December,2020 has been booked."
+    },
+    {
+        "vertical": "Airlines",
+        "category": "FlightCancel",
+        "categorymessage": "Flight Cancellation Message",
+        "messagetemplate": "Dear [Customer_Name], We are sorry to inform that your connection flight in ABC Airlines Flight No. AB102 from Germany to London departing at 17:00 on 15 December,2020 has been cancelled due to bad weather."
+    },
+    {
+        "vertical": "Airlines",
+        "category": "FlightDelay",
+        "categorymessage": "Flight Delay Message",
+        "messagetemplate": "Dear [Customer_Name], We are sorry to inform that your connection flight in ABC Airlines Flight No. AB102 from Germany to London departing at 17:00 on 15 December,2020 has been delayed due to disruption in the runway."
+    },{
+        "vertical": "Airlines",
+        "category": "FlightDelay 1",
+        "categorymessage": "Flight Delay Message",
+        "messagetemplate": "Dear [Customer_Name], We are sorry to inform that your connection flight in ABC Airlines Flight No. AB102 from Germany to London departing at 17:00 on 15 December,2020 has been delayed due to disruption in the runway."
+    },
+	{
+        "vertical": "Airlines",
+        "category": "FlightDelay 2",
+        "categorymessage": "Flight Delay Message",
+        "messagetemplate": "Dear [Customer_Name], We are sorry to inform that your connection flight in ABC Airlines Flight No. AB102 from Germany to London departing at 17:00 on 15 December,2020 has been delayed due to disruption in the runway."
+    },
+	{
+        "vertical": "Airlines",
+        "category": "FlightDelay 3",
+        "categorymessage": "Flight Delay Message",
+        "messagetemplate": "Dear [Customer_Name], We are sorry to inform that your connection flight in ABC Airlines Flight No. AB102 from Germany to London departing at 17:00 on 15 December,2020 has been delayed due to disruption in the runway."
+    }
+]
